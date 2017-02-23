@@ -54,14 +54,22 @@
 		84225CEC1E5E92D40078EC45 /* Quiz */ = {
 			isa = PBXGroup;
 			children = (
-				84225CED1E5E92D40078EC45 /* AppDelegate.swift */,
+				84225CFF1E5E931A0078EC45 /* Supporting files */,
 				84225CEF1E5E92D40078EC45 /* ViewController.swift */,
 				84225CF11E5E92D40078EC45 /* Main.storyboard */,
+			);
+			path = Quiz;
+			sourceTree = "<group>";
+		};
+		84225CFF1E5E931A0078EC45 /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				84225CED1E5E92D40078EC45 /* AppDelegate.swift */,
 				84225CF41E5E92D40078EC45 /* Assets.xcassets */,
 				84225CF61E5E92D40078EC45 /* LaunchScreen.storyboard */,
 				84225CF91E5E92D40078EC45 /* Info.plist */,
 			);
-			path = Quiz;
+			name = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
